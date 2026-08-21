@@ -59,21 +59,12 @@ I am a software developer with a strong focus on the .NET ecosystem and modern b
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <!-- Card de Estatísticas Principais -->
+<p align="center">  
   <a href="https://github.com/luctopan">
     <img src="https://github-stats-extended.vercel.app/api?username=luctopan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="165" alt="GitHub Stats" />
   </a>
-  <!-- Card de Top Linguagens (Layout Compacto) -->
   <a href="https://github.com/luctopan">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luctopan&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" height="165" alt="Top Languages" />
-  </a>
-</p>
-
-<!-- Card de Sequência de Commits (Streak) -->
-<p align="center">
-  <a href="https://github.com/luctopan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luctopan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
